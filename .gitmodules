@@ -1,0 +1,4 @@
+[submodule "addons/spring-bridge"]
+	path = addons/spring-bridge
+	url = https://github.com/seedstack/spring-bridge-addon-docs.git
+	branch = master
