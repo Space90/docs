@@ -1,8 +1,9 @@
 ---
 title: "Overview"
 addon: "Batch monitoring"
-description: "The SeedStack batch monitoring function provides a Web user interface to monitor the execution of Spring 
-Batch jobs. You can use it to inspect jobs, executions and steps. Execution statistics are provided."
+description: >
+    The SeedStack batch monitoring function provides a Web user interface to monitor the execution of Spring Batch jobs. 
+    You can use it to inspect jobs, executions and steps. Execution statistics are provided.
 tags:
     - "batch"
     - "maven"

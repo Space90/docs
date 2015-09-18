@@ -1,8 +1,9 @@
 ---
 title: "Overview"
 addon: "W20 bridge"
-description: "Acts as an extensible integration bridge between SeedStack Java and Web frameworks. It has the ability to 
-generate a pre-configured masterpage. It also provides various REST APIs to expose relevant backend features to a W20 frontend."
+description: >
+    Acts as an extensible integration bridge between SeedStack Java and Web frameworks. It has the ability to generate 
+    a pre-configured masterpage. It also provides various REST APIs to expose relevant backend features to a W20 frontend.
 menu:
     W20BridgeAddon:
         weight: 10
