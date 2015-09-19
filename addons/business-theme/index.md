@@ -1,6 +1,8 @@
 ---
 title: "Overview"
 addon: "Business theme"
+repo: "https://github.com/seedstack/w20-business-theme"
+author: "SeedStack"
 description: "W20 theme for enterprise business applications."  
 menu:
     BusinessThemeAddon:

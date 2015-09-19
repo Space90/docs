@@ -1,6 +1,8 @@
 ---
 title: "Overview"
 addon: "Audit"
+repo: "https://github.com/seedstack/audit-addon"
+author: "SeedStack"
 description: "The Audit add-on provides the ability to trace who does what in your application."
 tags:
     - "audit"
@@ -9,7 +11,6 @@ menu:
     AuditAddon:
         weight: 10
 ---
-
 
 The Audit add-on provides the ability to trace who does what in your application.
 

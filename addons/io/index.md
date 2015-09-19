@@ -1,6 +1,8 @@
 ---
 title: "Overview"
 addon: "I/O"
+repo: "https://github.com/seedstack/io-addon"
+author: "SeedStack"
 description: "Provides a simple way to import and export data in multiple formats: CSV, PDF, Office documents, ..."
 menu:
     IOAddon:

@@ -1,6 +1,8 @@
 ---
 title: "Overview"
 addon: "Internationalization"
+repo: "https://github.com/seedstack/i18n-addon"
+author: "SeedStack"
 description: "Provides backend services and a Web UI to manage application locales and translations."
 menu:
     InternationalizationAddon:
