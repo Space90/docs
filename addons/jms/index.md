@@ -3,6 +3,7 @@ title: "Overview"
 addon: "JMS"
 repo: "https://github.com/seedstack/jms-addon"
 author: "SeedStack"
+min-version: "15.7+"
 menu:
     JMSAddon:
         weight: 10

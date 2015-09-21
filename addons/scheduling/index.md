@@ -3,6 +3,7 @@ title: "Overview"
 addon: "Scheduling"
 repo: "https://github.com/seedstack/scheduling-addon"
 author: "SeedStack"
+min-version: "15.7+"
 menu:
     SchedulingAddon:
         weight: 10

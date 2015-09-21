@@ -3,6 +3,7 @@ title: "Overview"
 addon: "JavaMail"
 repo: "https://github.com/seedstack/javamail-addon"
 author: "SeedStack"
+min-version: "15.7+"
 menu:
     JavaMailAddon:
         weight: 10

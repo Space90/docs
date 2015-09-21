@@ -4,6 +4,7 @@ addon: "Internationalization"
 repo: "https://github.com/seedstack/i18n-addon"
 author: "SeedStack"
 description: "Provides backend services and a Web UI to manage application locales and translations."
+min-version: "15.7+"
 menu:
     InternationalizationAddon:
         weight: 10

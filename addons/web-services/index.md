@@ -3,6 +3,7 @@ title: "Overview"
 addon: "Web-Services"
 repo: "https://github.com/seedstack/web-services-addon"
 author: "SeedStack"
+min-version: "15.7+"
 menu:
     WebServicesAddon:
         weight: 10

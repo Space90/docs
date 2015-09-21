@@ -3,6 +3,7 @@ title: "Overview"
 addon: "Validation"
 repo: "https://github.com/seedstack/validation-addon"
 author: "SeedStack"
+min-version: "15.7+"
 menu:
     ValidationAddon:
         weight: 10

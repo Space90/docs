@@ -4,6 +4,7 @@ addon: "Business theme"
 repo: "https://github.com/seedstack/w20-business-theme"
 author: "SeedStack"
 description: "W20 theme for enterprise business applications."  
+min-version: "15.7+"
 menu:
     BusinessThemeAddon:
         weight: 10

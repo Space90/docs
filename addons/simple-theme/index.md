@@ -4,6 +4,7 @@ addon: "Simple theme"
 repo: "https://github.com/seedstack/w20-simple-theme"
 author: "SeedStack"
 description: "W20 theme providing a basic top-bar including a navigation menu and standard application controls."  
+min-version: "15.7+"
 menu:
     SimpleThemeAddon:
         weight: 10

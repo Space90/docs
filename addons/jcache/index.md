@@ -3,6 +3,7 @@ title: "Overview"
 addon: "JCache"
 repo: "https://github.com/seedstack/jcache-addon"
 author: "SeedStack"
+min-version: "15.7+"
 menu:
     JCacheAddon:
         weight: 10
