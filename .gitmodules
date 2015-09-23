@@ -6,3 +6,7 @@
 	path = addons/elasticsearch
 	url = https://github.com/seedstack/elasticsearch-addon.git
 	branch = docs
+[submodule "addons/javamail"]
+	path = addons/javamail
+	url = https://github.com/seedstack/javamail.git
+	branch = docs
