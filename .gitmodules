@@ -1,3 +1,8 @@
 [submodule "addons/spring-bridge"]
 	path = addons/spring-bridge
-	url = https://github.com/seedstack/spring-bridge-addon-docs.git
+	url = https://github.com/seedstack/spring-bridge-addon.git
+	branch = docs
+[submodule "addons/elasticsearch"]
+	path = addons/elasticsearch
+	url = https://github.com/seedstack/elasticsearch-addon.git
+	branch = docs
