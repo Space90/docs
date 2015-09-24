@@ -8,5 +8,9 @@
 	branch = docs
 [submodule "addons/javamail"]
 	path = addons/javamail
-	url = https://github.com/seedstack/javamail.git
+	url = https://github.com/seedstack/javamail-addon.git
+	branch = docs
+[submodule "addons/jcache"]
+	path = addons/jcache
+	url = https://github.com/seedstack/jcache-addon.git
 	branch = docs
